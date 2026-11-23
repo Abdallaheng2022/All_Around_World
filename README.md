@@ -11,20 +11,11 @@
 ![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white)
 
 ## 🎬 Demo
-
-![All Around the World demo: country cards, search, region filter, country details page, dark mode and 404 page](docs/demo.gif)
-
 ▶️ **Full walkthrough with voice-over (Egyptian Arabic, 1 min 40 s).** Press play below to watch it with sound:
 
-<!--
-  HOW TO SHOW THE FULL VIDEO WITH SOUND (one time, about 1 minute):
-  1. Open this README on GitHub and click the ✏️ (Edit) button.
-  2. Drag the file "All_Around_the_World_Demo_EG.mp4" from your computer and drop it on the line below this comment.
-  3. GitHub uploads it and inserts a link like https://github.com/user-attachments/assets/xxxxxxxx
-     Keep that link alone on its own line: GitHub turns it into a video player right inside the README.
-  4. Click "Commit changes".
-  (A video file committed inside the repository will NOT play in the README; it must be uploaded this way.)
--->
+https://github.com/user-attachments/assets/4cf04313-472d-40e3-a0f3-6b469651c856
+
+
 
 ---
 
